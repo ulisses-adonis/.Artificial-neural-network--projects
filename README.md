@@ -1,2 +1,2 @@
 # .NET-C--projects
-Projetos de aprendizagem e desenvolvimento da linguagem C#
+Projetos de aprendizagem e desenvolvimento em Redes Neurais
